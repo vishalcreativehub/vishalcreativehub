@@ -1,44 +1,22 @@
-<h1 align="center">Hi 👋, I'm Subham Gupta</h1>
-<h3 align="center">Final year Electrical Engineering | NIT Durgapur | Web Development Head of SAE NIT Durgapur | Senior Co-ordinator of RECursion Programming Community Of NIT Durgapur</h3>
-
-<h3 align="center">Visit my Website:<a href="https://63ce4ef9a445bd23713423f7--gentle-gumdrop-1ef8d2.netlify.app/">subhamportfolio</a></h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=subhamgupta007&label=Profile%20views&color=0e75b6&style=flat" alt="subhamgupta007" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhamgupta007" alt="subhamgupta007" /></a> </p>
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 📫 How to reach me **sg7287732@gmail.com**
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const Subham = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "C++","Python"],
-    askMeAbout: ["web dev", "tech", "app dev"],
-    technologies: {
-        backEnd: {
-             ["Node", "Express", "Django"],
+<h3 align="center"> Web Developer | NIT Durgapur</h3>
+Contact **vishal.vastbhutan@gmail.com**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+const Subham ={
+    code:["Javascript", "C" "C++","Python"],
+    technologies:{
+        backEnd:{
+             ["Node"],
         },
-        frontEnd: {
-             ["React Js", "HTML", "CSS","Bootstrap"]
+        frontEnd:{
+             ["HTML", "CSS","Bootstrap"]
         },
-        devOps: ["AWS", "Heroku","Vercel"],
-        databases: ["MongoDb", "MySql", "sqlite"],
-        misc: ["Firebase", "Material UI","Chakra UI","Tailwind"]
+        databases:["MongoDb", "MySql"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Web App Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
+    
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/subham-gupta-2398361a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham-gupta-2398361a9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishalkumar45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham-gupta-2398361a9" height="30" width="40" /></a>
 <a href="https://fb.com/subhamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhamgupta" height="30" width="40" /></a>
 <a href="https://instagram.com/subhamgupta173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhamgupta173" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/beingsubham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="beingsubham" height="30" width="40" /></a>
